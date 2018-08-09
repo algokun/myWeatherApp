@@ -1,5 +1,8 @@
 # myWeatherApp
+
 A simple weather build on the scale of Open Weather API
+
+This is just a simple weather app that usually just predicts the weather conditions
 
 # Screenshots
 
@@ -13,3 +16,6 @@ A simple weather build on the scale of Open Weather API
 
 ![scene5](https://user-images.githubusercontent.com/21126965/43913945-10bbc992-9c24-11e8-9ec8-ef18ef843ef2.png)
 
+Follow Me on FaceBook
+
+https://www.facebook.com/sree.dhannu
